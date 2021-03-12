@@ -1,0 +1,19 @@
+a {
+    text-decoration: none;
+}
+
+body {
+    background-color: burlywood;
+}
+
+.container-fluid {
+    padding: 3% 7%;
+}
+
+.big-text {
+    color:white;
+    background-color: #845447;
+    font-size: 3rem;
+    padding:5% 0%;
+    margin-bottom: 100px;
+}

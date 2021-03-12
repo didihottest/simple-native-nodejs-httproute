@@ -1,0 +1,90 @@
+{
+    "0": {
+        "model": "AMD FX(tm)-8350 Eight-Core Processor           ",
+        "speed": 4018,
+        "times": {
+            "user": 6300265,
+            "nice": 0,
+            "sys": 3513812,
+            "idle": 34801953,
+            "irq": 435250
+        }
+    },
+    "1": {
+        "model": "AMD FX(tm)-8350 Eight-Core Processor           ",
+        "speed": 4018,
+        "times": {
+            "user": 7434312,
+            "nice": 0,
+            "sys": 2059812,
+            "idle": 35121734,
+            "irq": 49875
+        }
+    },
+    "2": {
+        "model": "AMD FX(tm)-8350 Eight-Core Processor           ",
+        "speed": 4018,
+        "times": {
+            "user": 7119437,
+            "nice": 0,
+            "sys": 2129859,
+            "idle": 35366562,
+            "irq": 37859
+        }
+    },
+    "3": {
+        "model": "AMD FX(tm)-8350 Eight-Core Processor           ",
+        "speed": 4018,
+        "times": {
+            "user": 6085000,
+            "nice": 0,
+            "sys": 1429781,
+            "idle": 37101062,
+            "irq": 29078
+        }
+    },
+    "4": {
+        "model": "AMD FX(tm)-8350 Eight-Core Processor           ",
+        "speed": 4018,
+        "times": {
+            "user": 4921468,
+            "nice": 0,
+            "sys": 977078,
+            "idle": 38717296,
+            "irq": 24015
+        }
+    },
+    "5": {
+        "model": "AMD FX(tm)-8350 Eight-Core Processor           ",
+        "speed": 4018,
+        "times": {
+            "user": 4897343,
+            "nice": 0,
+            "sys": 706140,
+            "idle": 39012359,
+            "irq": 16968
+        }
+    },
+    "6": {
+        "model": "AMD FX(tm)-8350 Eight-Core Processor           ",
+        "speed": 4018,
+        "times": {
+            "user": 3967593,
+            "nice": 0,
+            "sys": 529109,
+            "idle": 40119140,
+            "irq": 14765
+        }
+    },
+    "7": {
+        "model": "AMD FX(tm)-8350 Eight-Core Processor           ",
+        "speed": 4018,
+        "times": {
+            "user": 3559921,
+            "nice": 0,
+            "sys": 464703,
+            "idle": 40591203,
+            "irq": 34640
+        }
+    }
+}
