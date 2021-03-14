@@ -3,88 +3,88 @@
         "model": "AMD FX(tm)-8350 Eight-Core Processor           ",
         "speed": 4018,
         "times": {
-            "user": 6300265,
+            "user": 7945703,
             "nice": 0,
-            "sys": 3513812,
-            "idle": 34801953,
-            "irq": 435250
+            "sys": 4921296,
+            "idle": 50281000,
+            "irq": 600296
         }
     },
     "1": {
         "model": "AMD FX(tm)-8350 Eight-Core Processor           ",
         "speed": 4018,
         "times": {
-            "user": 7434312,
+            "user": 9132453,
             "nice": 0,
-            "sys": 2059812,
-            "idle": 35121734,
-            "irq": 49875
+            "sys": 2945140,
+            "idle": 51070234,
+            "irq": 70453
         }
     },
     "2": {
         "model": "AMD FX(tm)-8350 Eight-Core Processor           ",
         "speed": 4018,
         "times": {
-            "user": 7119437,
+            "user": 8842140,
             "nice": 0,
-            "sys": 2129859,
-            "idle": 35366562,
-            "irq": 37859
+            "sys": 2978250,
+            "idle": 51327437,
+            "irq": 52078
         }
     },
     "3": {
         "model": "AMD FX(tm)-8350 Eight-Core Processor           ",
         "speed": 4018,
         "times": {
-            "user": 6085000,
+            "user": 7515593,
             "nice": 0,
-            "sys": 1429781,
-            "idle": 37101062,
-            "irq": 29078
+            "sys": 1998265,
+            "idle": 53633953,
+            "irq": 39000
         }
     },
     "4": {
         "model": "AMD FX(tm)-8350 Eight-Core Processor           ",
         "speed": 4018,
         "times": {
-            "user": 4921468,
+            "user": 5988234,
             "nice": 0,
-            "sys": 977078,
-            "idle": 38717296,
-            "irq": 24015
+            "sys": 1347718,
+            "idle": 55811859,
+            "irq": 31984
         }
     },
     "5": {
         "model": "AMD FX(tm)-8350 Eight-Core Processor           ",
         "speed": 4018,
         "times": {
-            "user": 4897343,
+            "user": 5860281,
             "nice": 0,
-            "sys": 706140,
-            "idle": 39012359,
-            "irq": 16968
+            "sys": 967140,
+            "idle": 56320390,
+            "irq": 22250
         }
     },
     "6": {
         "model": "AMD FX(tm)-8350 Eight-Core Processor           ",
         "speed": 4018,
         "times": {
-            "user": 3967593,
+            "user": 4417109,
             "nice": 0,
-            "sys": 529109,
-            "idle": 40119140,
-            "irq": 14765
+            "sys": 683984,
+            "idle": 58046718,
+            "irq": 18406
         }
     },
     "7": {
         "model": "AMD FX(tm)-8350 Eight-Core Processor           ",
         "speed": 4018,
         "times": {
-            "user": 3559921,
+            "user": 3978234,
             "nice": 0,
-            "sys": 464703,
-            "idle": 40591203,
-            "irq": 34640
+            "sys": 598859,
+            "idle": 58570703,
+            "irq": 49484
         }
     }
 }
